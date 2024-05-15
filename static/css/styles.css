@@ -10846,3 +10846,15 @@ html {
   background-repeat: no-repeat;
   min-height: 15rem;
 }
+
+.info {
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none; 
+}
+
+.list {
+  list-style-type: none;
+}
